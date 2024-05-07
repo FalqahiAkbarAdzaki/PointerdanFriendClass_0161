@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointerdanFriendClass_0161"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer dengan objek sendiri", "pointer dengan objek sendiri\pointer dengan objek sendiri.vcxproj", "{3B18CB3D-4CD6-44A1-9735-2F0DB81CF6ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Frame Class", "Frame Class\Frame Class.vcxproj", "{56304F71-0236-4A8D-9BC5-E06488F2ED3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3B18CB3D-4CD6-44A1-9735-2F0DB81CF6ED}.Release|x64.Build.0 = Release|x64
 		{3B18CB3D-4CD6-44A1-9735-2F0DB81CF6ED}.Release|x86.ActiveCfg = Release|Win32
 		{3B18CB3D-4CD6-44A1-9735-2F0DB81CF6ED}.Release|x86.Build.0 = Release|Win32
+		{56304F71-0236-4A8D-9BC5-E06488F2ED3D}.Debug|x64.ActiveCfg = Debug|x64
+		{56304F71-0236-4A8D-9BC5-E06488F2ED3D}.Debug|x64.Build.0 = Debug|x64
+		{56304F71-0236-4A8D-9BC5-E06488F2ED3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{56304F71-0236-4A8D-9BC5-E06488F2ED3D}.Debug|x86.Build.0 = Debug|Win32
+		{56304F71-0236-4A8D-9BC5-E06488F2ED3D}.Release|x64.ActiveCfg = Release|x64
+		{56304F71-0236-4A8D-9BC5-E06488F2ED3D}.Release|x64.Build.0 = Release|x64
+		{56304F71-0236-4A8D-9BC5-E06488F2ED3D}.Release|x86.ActiveCfg = Release|Win32
+		{56304F71-0236-4A8D-9BC5-E06488F2ED3D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
