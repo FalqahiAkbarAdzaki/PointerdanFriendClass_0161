@@ -15,15 +15,9 @@ public:
 
 int main()
 {
-    mahasiswa mhs{ 1 }; // Object mhs
-    mhs.showNim(); // Member Access Operator
-
-    mahasiswa& refMhs = mhs; // Pointer Reference refMhs
-    refMhs.nim = 2; // Member Acces Operator
-    mhs.showNim();
-
-    mahasiswa* pMhs = &mhs;
-    pMhs->nim = 3; //Arrow Operator
-    pMhs->showNim();
-    return 0;
+	mahasiswa* mhs = new mahasiswa{ 1 }; // pointer object mhs
+	mhs->nim = 2;
+	mhs->showNim();
+	delete mhs;
+	return 0;
 }
